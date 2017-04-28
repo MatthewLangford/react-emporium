@@ -4,7 +4,8 @@
   "description": "* Build a simple e-commerce site using React, React Router, and Redux.\r * Become familiar with the concepts of actions, action creators, application state, and working with multiple reducers.",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline"
   },
   "repository": {
     "type": "git",
